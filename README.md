@@ -1,10 +1,12 @@
-# Nsi-Tle-Bdd-Epr-Prat-Eval
+# Nsi-Tle-Bdd-Epr-Prat-Eval1
 NSI Terminale - Base de données : épreuve pratique d'évaluation
 
 Le but est de mettre les élèves en situation pratique d'évaluation.
 
 Une base de données relationnelle sert de support à cette épreuve.
 La page d'accueil en fait une description.
+Le sujet est : "les erbres remarquables des Côtes d'Armor".
+Source : https://datarmor.cotesdarmor.fr/data-presentation-ux/#/cg22/datasets/i2x3pbj8/views/grid
 
 Il leur est demandé d'écrire des requêtes en SQL qui répondent à des questions.
 Ils soumettent leurs requêtes et voient s'afficher le résultat de leur requête.
